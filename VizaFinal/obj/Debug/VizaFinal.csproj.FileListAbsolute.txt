@@ -1,0 +1,6 @@
+D:\C# files\VizaFinal\VizaFinal\bin\Debug\VizaFinal.exe.config
+D:\C# files\VizaFinal\VizaFinal\bin\Debug\VizaFinal.exe
+D:\C# files\VizaFinal\VizaFinal\bin\Debug\VizaFinal.pdb
+D:\C# files\VizaFinal\VizaFinal\obj\Debug\VizaFinal.csprojResolveAssemblyReference.cache
+D:\C# files\VizaFinal\VizaFinal\obj\Debug\VizaFinal.exe
+D:\C# files\VizaFinal\VizaFinal\obj\Debug\VizaFinal.pdb
